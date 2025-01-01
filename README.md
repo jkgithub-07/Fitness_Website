@@ -1,13 +1,8 @@
 # Fitness_Website
 FitMe Website 
-A simple full stack fitness website designed to start fitness journey.
-Users simply select a  program that aligns with their fitness objectives, whether it be weight loss, muscle toning, or overall
-health improvement. From there, they gain access to a curated selection of exercises and activities
-designed to deliver maximum results in minimal time.
-Key Features: 1)User registration
-              2)Program Selection
-              3)Data Management
-              4)responsive Frontend
+A robust and dynamic web Application with highly interactive frontend and backend.
+The backend is powered by PHP and interacts with a MySQL database to store and retrieve data dynamically. The frontend communicates with the backend, fetching data from the database in real-time, which ensures that the application is always displaying the latest information.
+All necessary information is loaded and displayed dynamically on the same page, ensuring a fast and efficient interaction. The dynamic data fetching from the backend eliminates the need for complex page transitions, making the website faster and more responsive.
 
 Tech Stack: 
         Frontend: HTML, CSS, JavaScript
